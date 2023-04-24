@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-In the study guide reviews notes regarding HTML, CSS, JavaScript and Git my be found under the labeled sections on the page and may choose a topic for the user to study first. open the Chrome DevTools by pressing command+Option+I(macOS) or Control+Shift+I(windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study firts.
+In the study guide reviews notes regarding HTML, CSS, JavaScript and Git my be found under the labeled sections on the page and may choose a topic for the user to study first. open the Chrome DevTools by pressing command+Option+I(macOS) or Control+Shift+I(windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
 
 ## Credits
 
